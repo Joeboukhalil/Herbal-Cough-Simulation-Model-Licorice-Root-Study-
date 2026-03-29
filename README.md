@@ -45,7 +45,7 @@ Adjustable variables (healing rate, dosage, strength)
 - Screenshots
 - Simulation Graph
 - 
-![Simulation Graph](test-1.png)
+![Simulation Graph](test_1.png)
 ![Simulation Graph](test_2.png)
 ![Simulation Graph](test_3.png)
 
